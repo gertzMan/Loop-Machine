@@ -4,7 +4,7 @@
   // put all the track ids in an array
 
   const play_list = [
-    "_tambourine_shake_higher.mp3",
+    "tambourine.mp3",
     "ALL TRACK.mp3",
     "B VOC.mp3",
     "DRUMS.mp3",
