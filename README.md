@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="Assets/Logo.png" width="80px"><br/>Loop-Machine</h1>
+      <h1> <img src="Assets/Logo.png" width="600px"><br/>Loop-Machine</h1>
      </div>
 
 # Description
