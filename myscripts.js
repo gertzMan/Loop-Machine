@@ -27,6 +27,8 @@
     "bg-tomato",
     "bg-powderblue",
   ];
+  //First we want to prefetch all assets
+  play_list.forEach((song) => fetch(`./Assets/${song}`));
 
   // selectors for control elements
   const play_btn = document.getElementById("play_btn");
