@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="Assets/logo.png" width="80px"><br/>Loop-Machine</h1>
+      <h1> <img src="Assets/Logo.png" width="80px"><br/>Loop-Machine</h1>
      </div>
 
 # Description
@@ -41,6 +41,4 @@ Anything else that you want to add for users? You can write it here in markdown 
 
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
 
-# If you don't want to add this section, just clear all the text written here.
 
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
