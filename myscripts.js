@@ -132,6 +132,7 @@
       elem.pause();
       elem.currentTime = 0;
     });
+    location.reload();
   }
 
   function loop_songs(value) {
