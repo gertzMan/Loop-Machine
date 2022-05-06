@@ -5,6 +5,7 @@
 # Description
 
 A 9 Track Simultaneous Music Player. 
+Deployed to Github Pages, check it out: https://gertzman.github.io/Loop-Machine/
 
 # Features
 - An individual mute toggle for each track. 
