@@ -28,9 +28,6 @@
     "bg-powderblue",
   ];
 
-  //First we want to prefetch all assets
-  play_list.forEach((song) => fetch(`./Assets/${song}`));
-
   // selectors for control elements
   const play_btn = document.getElementById("play_btn");
   const stop_btn = document.getElementById("stop_btn");
@@ -124,8 +121,6 @@
   }
 
   function stop_songs() {
-    //find the audio elemnt with
-
     const music = document.querySelectorAll("audio");
 
     music.forEach((elem) => {
